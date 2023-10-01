@@ -2,6 +2,14 @@
 
 Read the ReadMe_OralCancer_imageSegmentation_Documentation.pdf provided in the repo for extensive documentation
 
+<div style="text-align: center; background-color: white;">
+  <figure>
+    <img src="https://github.com/PranavMishra17/UnetPLUS-OralCancer-image-segmenattion/blob/main/Model%20predictions%20and%20metrics/_Hybrid%20models_/Prediction/w1.png?raw=true" alt="Final comparision between ground truth and model predicted segmentation of Oral Cancer image" style="background-color: white;">
+    <figcaption style="background-color: white;"><i>Final comparision between ground truth and model predicted segmentation of Oral Cancer image</i></figcaption>
+  </figure>
+</div>
+
+
 ![Final comparision between ground truth and model predicted segmentation of Oral Cancer image](./Model%20predictions%20and%20metrics/_Hybrid%20models_/Prediction/w1.png)
 **Caption**: Final comparision between ground truth and model predicted segmentation of Oral Cancer image
 
