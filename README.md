@@ -2,6 +2,9 @@
 
 Read the ReadMe_OralCancer_imageSegmentation_Documentation.pdf provided in the repo for extensive documentation
 
+![Final comparision between ground truth and model predicted segmentation of Oral Cancer image](./Model predictions and metrics/_Hybrid models_/Prediction/w1.png)
+
+
 **Overview**
 The central thrust of this project is the application of image segmentation techniques to a dataset of oral cancer images sourced from Kaggle. The project employs Convolutional Neural Networks (CNNs), specifically utilizing the U-Net architecture. Unlike typical CNNs, which are employed for image classification tasks, U-Net architectures are particularly potent for image segmentation problems. 
 
