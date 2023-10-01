@@ -16,6 +16,7 @@ To elevate the performance and efficiency of the U-Net models, various pretraine
 The Intersection over Union (IOU) score is used as a key performance metric for evaluating the effectiveness of each segmentation model. Given its robustness in evaluating how well the predicted and actual segments overlap, the IOU score is highly valuable in this context. To further optimize the models, a weighted average approach is used to create hybrid models that combine the strengths of individual architectures, thereby aiming to achieve superior IOU scores.
 
 
+
 **Additional Notes on Project Environment and Code**
 
 Google Collab as the Development Environment 
