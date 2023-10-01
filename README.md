@@ -7,6 +7,7 @@ Read the ReadMe_OralCancer_imageSegmentation_Documentation.pdf provided in the r
 
 **Caption**: Final comparison between ground truth and model-predicted segmentation of the Oral Cancer image
 
+---
 
 **Overview**
 The central thrust of this project is the application of image segmentation techniques to a dataset of oral cancer images sourced from Kaggle. The project employs Convolutional Neural Networks (CNNs), specifically utilizing the U-Net architecture. Unlike typical CNNs, which are employed for image classification tasks, U-Net architectures are particularly potent for image segmentation problems.
@@ -15,6 +16,7 @@ To elevate the performance and efficiency of the U-Net models, various pretraine
 
 The Intersection over Union (IOU) score is used as a key performance metric for evaluating the effectiveness of each segmentation model. Given its robustness in evaluating how well the predicted and actual segments overlap, the IOU score is highly valuable in this context. To further optimize the models, a weighted average approach is used to create hybrid models that combine the strengths of individual architectures, thereby aiming to achieve superior IOU scores.
 
+---
 
 
 **Additional Notes on Project Environment and Code**
