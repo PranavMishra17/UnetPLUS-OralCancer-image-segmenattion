@@ -1,6 +1,6 @@
 # UnetPLUS-OralCancer-image segmentation
 
-Read the ReadMe_OralCancer_imageSegmentation_Documentation.pdf provided in the repo for extensive documentation
+Read the ReadMe_OralCancer_imageSegmentation_Documentation.pdf provided in the repo for extensive documentation. ![Link](./ReadMe_OralCancer_imageSegmentation_Documentation.pdf)
 
 
 ![Final comparision between ground truth and model predicted segmentation of Oral Cancer image](./image.png)
