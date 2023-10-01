@@ -11,7 +11,7 @@ Read the ReadMe_OralCancer_imageSegmentation_Documentation.pdf provided in the r
 
 
 
-![Final comparision between ground truth and model predicted segmentation of Oral Cancer image](./Model%20predictions%20and%20metrics/_Hybrid%20models_/Prediction/w1.png)
+![Final comparision between ground truth and model predicted segmentation of Oral Cancer image](./image.png)
 **Caption**: Final comparison between ground truth and model-predicted segmentation of the Oral Cancer image
 
 
