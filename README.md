@@ -1,6 +1,7 @@
 # UnetPLUS-OralCancer-image segmentation
 
-Read the ReadMe_OralCancer_imageSegmentation_Documentation.pdf provided in the repo for extensive documentation. ![Link](./ReadMe_OralCancer_imageSegmentation_Documentation.pdf)
+Project Report:
+> [**UNet-Plus: Hybrid Segmentation Models for Oral Cancer Imaging**](ReadMe_OralCancer_imageSegmentation_Documentation.pdf)
 
 
 ![Final comparision between ground truth and model predicted segmentation of Oral Cancer image](./image.png)
@@ -28,8 +29,4 @@ For this project, Google Collab was chosen as the development environment due to
 Data and Model Availability 
 
 It's important to note that the GitHub repository hosting this code does not contain the dataset used for the project, nor does it host any of the trained models or predictions. While the code serves as a reference, it's not intended for public use of models or predictions. However, some example outputs and graphs are provided both in the repository and in the document to offer a level of understanding of the work conducted. 
-
-Code Documentation 
-
-The code lacks extensive documentation, and some sections are deprecated or not in use as the project evolved over time. While comments have been added to facilitate understanding, the code itself is not as polished or well-documented as one might expect for a public release. This makes the present documentation all the more crucial for anyone looking to understand the procedures, methodologies, and outcomes detailed in this project. 
  
